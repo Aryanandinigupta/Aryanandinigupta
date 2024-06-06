@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on anything cool
 - 💬 Ask me about anything related to _**Javascript, Typescript, Java, Springboot, Data Structures, Machine Learning**_
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/arya-nandini-gupta)
-- ⚡ Fun fact : I like Stock trading
+- ⚡ Fun fact : I like app development
 
 <!-- Comment Example -->
 
